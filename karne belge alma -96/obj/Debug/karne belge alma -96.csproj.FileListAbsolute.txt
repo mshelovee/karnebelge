@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\karne belge alma -96\karne belge alma -96\bin\Debug\karne belge alma -96.exe.config
+C:\Users\User\source\repos\karne belge alma -96\karne belge alma -96\bin\Debug\karne belge alma -96.exe
+C:\Users\User\source\repos\karne belge alma -96\karne belge alma -96\bin\Debug\karne belge alma -96.pdb
+C:\Users\User\source\repos\karne belge alma -96\karne belge alma -96\obj\Debug\karne belge alma -96.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\karne belge alma -96\karne belge alma -96\obj\Debug\karne belge alma -96.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\karne belge alma -96\karne belge alma -96\obj\Debug\karne_belge_alma__96.Form1.resources
+C:\Users\User\source\repos\karne belge alma -96\karne belge alma -96\obj\Debug\karne_belge_alma__96.Properties.Resources.resources
+C:\Users\User\source\repos\karne belge alma -96\karne belge alma -96\obj\Debug\karne belge alma -96.csproj.GenerateResource.cache
+C:\Users\User\source\repos\karne belge alma -96\karne belge alma -96\obj\Debug\karne belge alma -96.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\karne belge alma -96\karne belge alma -96\obj\Debug\karne belge alma -96.exe
+C:\Users\User\source\repos\karne belge alma -96\karne belge alma -96\obj\Debug\karne belge alma -96.pdb
